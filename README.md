@@ -23,6 +23,5 @@ Contributions are welcome. Please read the contributing guidelines before making
 Specify your project's license here.
 
 ## Contact
-Your contact information for further queries or collaborations.
+[ajinsunny.com](url)
 
-[GitHub Link](https://github.com/ajinsunny/contactinfo)
