@@ -23,5 +23,5 @@ Contributions are welcome. Please read the contributing guidelines before making
 Specify your project's license here.
 
 ## Contact
-[ajinsunny.com](url)
+[ajinsunny.com](ajinsunny.com)
 
